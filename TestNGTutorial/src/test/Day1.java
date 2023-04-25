@@ -9,6 +9,8 @@ public class Day1 {
 	public void Demo() 
 	{
 		System.out.println("this copy");
+		
+		System.out.println("adding something new");
 	}
 
 }
